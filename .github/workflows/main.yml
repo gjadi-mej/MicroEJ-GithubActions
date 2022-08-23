@@ -1,4 +1,5 @@
-name: Example of Github Actions to build a MicroEJ Platform and Virtual Device
+# Example of Github Actions to build a MicroEJ Platform and Virtual Device
+name: Build Virtual Device
 
 on: [push, pull_request, workflow_dispatch]
 
